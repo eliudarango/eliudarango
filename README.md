@@ -1,4 +1,4 @@
-<h2 align="left">Hola👋! Mi nombre es Eliud Arango</h2>
+<h2 align="left">Hi👋! My name is Eliud Arango</h2>
 <h3 align="center">A passionate backend developer from Mexico.</h3>
 
 - 🔭 I’m currently working on **Laravel Projects**
