@@ -37,13 +37,30 @@
 </div>
 
 <p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/eliudarango">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <!-- Twitter/X -->
   <a href="https://twitter.com/eliudarango">
     <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://www.instagram.com/eliudarango/">
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/eliudarango">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  
+  <!-- Discord -->
+  <a href="https://discord.com/users/eliudarango">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <!-- Twitch -->
+  <a href="https://www.twitch.tv/eliudarango">
+    <img src="https://skillicons.dev/icons?i=twitch" />
+  </a>
+  <!-- Snapchat -->
+  <a href="https://www.snapchat.com/add/eliudarango">
+    <img src="https://skillicons.dev/icons?i=snapchat" />
+  </a>
 </p>
 
 ###
