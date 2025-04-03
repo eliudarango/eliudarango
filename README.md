@@ -22,7 +22,7 @@ Ingeniero en Sistemas Computacionales con la especialidad en Tecnologías de Sof
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,bootstrap,css,html,go,java,python,php,js,ts,laravel,mysql,docker&perline=14" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,bootstrap,css,html,go,java,python,php,js,ts,laravel,angular,mysql,docker&perline=14" />
   </a>
 </p>
 
