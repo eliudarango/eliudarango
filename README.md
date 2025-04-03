@@ -1,12 +1,9 @@
-<h2 align="left">Hi👋! My name is Eliud Arango</h2>
-<h3 align="center">A passionate backend developer from Mexico.</h3>
+<h2 align="left">Hola👋! Mi nombre es Eliud Arango</h2>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer" alt="Typing SVG" /></a>
+</p>
 
-- 🔭 I’m currently working on **Laravel Projects**
-
-- 🌱 I’m currently learning **cybersecurity and data analysis courses**
-
-- 💬 Ask me about **Laravel (PHP), Python, Java**
-
+Ingeniero en Sistemas Computacionales con la especialidad en Tecnologías de Software Emergente con conocimientos en desarrollo web y bases de datos. Apasionado por la tecnología y la resolución de problemas, con habilidades en lenguajes de programación como Java y PHP en el uso del framework Laravel. Capacidad para trabajar en equipo, adaptabilidad y rápida curva de aprendizaje. Motivado por la innovación y el aprendizaje continuo, cuento con certificaciones en Ciberseguridad de Google y Análisis de Datos de Google y actualmente me encuentro realizando un curso en AluraLatam en el programa ONE Oracle Next Education, desarrollando habilidades en HTML, CSS y en lenguaje JavaScript.
 
 ###
 
@@ -25,7 +22,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,firebase,github,html,java,python,django,php,laravel,js,kotlin,mysql,nodejs,postman,react,tailwind,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,github,html,java,python,php,laravel,js,mysql,vscode&perline=14" />
   </a>
 </p>
 
