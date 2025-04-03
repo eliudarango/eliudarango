@@ -53,14 +53,6 @@
   <a href="https://discord.com/users/eliudarango">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <!-- Twitch -->
-  <a href="https://www.twitch.tv/eliudarango">
-    <img src="https://skillicons.dev/icons?i=twitch" />
-  </a>
-  <!-- Snapchat -->
-  <a href="https://www.snapchat.com/add/eliudarango">
-    <img src="https://skillicons.dev/icons?i=snapchat" />
-  </a>
 </p>
 
 ###
