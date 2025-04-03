@@ -16,7 +16,7 @@ Ingeniero en Sistemas Computacionales con la especialidad en Tecnologías de Sof
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Lenguajes y Tecnologias</h2></summary>
+    <summary><h2 style="display: inline-block">Lenguajes y tecnologías:</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
@@ -29,7 +29,7 @@ Ingeniero en Sistemas Computacionales con la especialidad en Tecnologías de Sof
 ###
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Redes sociales</h2></summary>
+    <summary><h2 style="display: inline-block">Redes sociales:</h2></summary>
   </ul>
 </div>
 
