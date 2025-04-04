@@ -9,7 +9,7 @@ Ingeniero en Sistemas Computacionales con la especialidad en Tecnologías de Sof
 
 <!--Intro end-->
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;Análisis de GitHub
 
 ![Sreevishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=eliudarango&hide=issues&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eliudarango&layout=compact&theme=tokyonight)](https://github.com/eliudarango/github-readme-stats)
