@@ -2,6 +2,7 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Backend+Developer" alt="Typing SVG" /></a>
 </p>
+Sergio Eliud Montiel Arango
 
 Ingeniero en Sistemas Computacionales especializado en Tecnologías de Software Emergente, con experiencia en desarrollo backend con Python, Java (Spring Boot) y PHP (Laravel), bases de datos SQL y arquitecturas orientadas a servicios, así como en infraestructura, redes y seguridad con tecnologías Cisco, Ubiquiti UniFi, Cambium, Palo Alto y Fortinet. Actualmente estudio un Posgrado en Inteligencia Artificial, fortaleciendo mis conocimientos en IA, automatización y análisis de datos. Cuento con certificaciones Oracle Next Education (ONE – Alura Latam), Oracle Cloud Infrastructure 2025 Certified Foundations Associate, Ciberseguridad de Google y Análisis de Datos de Google. Me caracterizo por mi capacidad de aprendizaje, adaptabilidad y enfoque en la resolución de problemas y mejora continua.
 
